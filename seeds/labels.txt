@@ -1,0 +1,6 @@
+0 hello
+1 yes
+2 understand
+3 bathroom/restroom
+4 Ok
+5 Water
